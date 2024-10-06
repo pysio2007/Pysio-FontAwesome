@@ -56577,6 +56577,14 @@ right-long:
       - next
   unicode: f30b
   voted: false
+vscode:
+  familyStylesByLicense:
+    other:
+      - family: kit
+        style: custom
+  label: vscode
+  unicode: e003
+  voted: false
 laptop-slash:
   changes:
     - 6.0.0-beta1
@@ -67569,6 +67577,14 @@ truck:
       - truck
       - vehicle
   unicode: f0d1
+  voted: false
+idea:
+  familyStylesByLicense:
+    other:
+      - family: kit
+        style: custom
+  label: idea
+  unicode: e004
   voted: false
 landmark:
   aliases:
@@ -136966,6 +136982,14 @@ dial-med:
       - level
   unicode: e15f
   voted: false
+pycharm:
+  familyStylesByLicense:
+    other:
+      - family: kit
+        style: custom
+  label: pycharm
+  unicode: e005
+  voted: false
 angle-right:
   aliases:
     unicodes:
@@ -163232,6 +163256,14 @@ ups:
       - package
       - shipping
   unicode: f7e0
+  voted: false
+jetbrains:
+  familyStylesByLicense:
+    other:
+      - family: kit
+        style: custom
+  label: jetbrains
+  unicode: e002
   voted: false
 ski-boot:
   changes:

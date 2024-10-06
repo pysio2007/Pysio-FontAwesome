@@ -35571,6 +35571,12 @@ right-long:
     - duotone
   unicode: f30b
   voted: false
+vscode:
+  label: vscode
+  styles:
+    - custom
+  unicode: e003
+  voted: false
 laptop-slash:
   changes:
     - 6.0.0-beta1
@@ -42538,6 +42544,12 @@ truck:
     - thin
     - duotone
   unicode: f0d1
+  voted: false
+idea:
+  label: idea
+  styles:
+    - custom
+  unicode: e004
   voted: false
 landmark:
   aliases:
@@ -86178,6 +86190,12 @@ dial-med:
     - duotone
   unicode: e15f
   voted: false
+pycharm:
+  label: pycharm
+  styles:
+    - custom
+  unicode: e005
+  voted: false
 angle-right:
   aliases:
     unicodes:
@@ -102726,6 +102744,12 @@ ups:
   styles:
     - brands
   unicode: f7e0
+  voted: false
+jetbrains:
+  label: jetbrains
+  styles:
+    - custom
+  unicode: e002
   voted: false
 ski-boot:
   changes:
