@@ -21338,6 +21338,14 @@ border-right:
       - table
   unicode: f852
   voted: false
+issues:
+  familyStylesByLicense:
+    other:
+      - family: kit
+        style: custom
+  label: issues
+  unicode: e006
+  voted: false
 knife-kitchen:
   aliases:
     unicodes:

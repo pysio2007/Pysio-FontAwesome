@@ -13497,6 +13497,12 @@ border-right:
     - duotone
   unicode: f852
   voted: false
+issues:
+  label: issues
+  styles:
+    - custom
+  unicode: e006
+  voted: false
 knife-kitchen:
   aliases:
     unicodes:
