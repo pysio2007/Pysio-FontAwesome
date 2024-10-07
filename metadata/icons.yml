@@ -89632,6 +89632,12 @@ face-saluting:
     - duotone
   unicode: e484
   voted: false
+modrinth:
+  label: modrinth
+  styles:
+    - custom
+  unicode: e007
+  voted: false
 chevron-up:
   aliases:
     unicodes:

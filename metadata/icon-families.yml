@@ -142494,6 +142494,14 @@ face-saluting:
       - salute
   unicode: e484
   voted: false
+modrinth:
+  familyStylesByLicense:
+    other:
+      - family: kit
+        style: custom
+  label: modrinth
+  unicode: e007
+  voted: false
 chevron-up:
   aliases:
     unicodes:

@@ -19390,6 +19390,7 @@ readers do not read off random characters that represent icons */
 .fak.fa-idea::before, .fa-kit.fa-idea::before { content: "\e004"; }
 .fak.fa-issues::before, .fa-kit.fa-issues::before { content: "\e006"; }
 .fak.fa-jetbrains::before, .fa-kit.fa-jetbrains::before { content: "\e002"; }
+.fak.fa-modrinth::before, .fa-kit.fa-modrinth::before { content: "\e007"; }
 .fak.fa-pve::before, .fa-kit.fa-pve::before { content: "\e001"; }
 .fak.fa-pycharm::before, .fa-kit.fa-pycharm::before { content: "\e005"; }
 .fak.fa-vscode::before, .fa-kit.fa-vscode::before { content: "\e003"; }
