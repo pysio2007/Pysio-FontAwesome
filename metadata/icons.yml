@@ -79125,6 +79125,12 @@ paper-plane-top:
     - duotone
   unicode: e20a
   voted: false
+pwa:
+  label: pwa
+  styles:
+    - custom
+  unicode: e008
+  voted: false
 person-seat-reclined:
   changes:
     - 6.0.0-beta1

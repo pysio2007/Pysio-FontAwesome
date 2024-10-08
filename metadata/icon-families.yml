@@ -125741,6 +125741,14 @@ paper-plane-top:
       - send
   unicode: e20a
   voted: false
+pwa:
+  familyStylesByLicense:
+    other:
+      - family: kit
+        style: custom
+  label: pwa
+  unicode: e008
+  voted: false
 person-seat-reclined:
   changes:
     - 6.0.0-beta1

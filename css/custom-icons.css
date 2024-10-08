@@ -4,6 +4,7 @@
 .fak.fa-jetbrains::before, .fa-kit.fa-jetbrains::before { content: "\e002"; }
 .fak.fa-modrinth::before, .fa-kit.fa-modrinth::before { content: "\e007"; }
 .fak.fa-pve::before, .fa-kit.fa-pve::before { content: "\e001"; }
+.fak.fa-pwa::before, .fa-kit.fa-pwa::before { content: "\e008"; }
 .fak.fa-pycharm::before, .fa-kit.fa-pycharm::before { content: "\e005"; }
 .fak.fa-vscode::before, .fa-kit.fa-vscode::before { content: "\e003"; }
 
